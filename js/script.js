@@ -17,7 +17,7 @@ buttons.forEach((item) => {
             if (Number.isInteger(result)) {
                 display.innerText = result;
             } else {
-                display.innerText = result.toFixed(4);
+                display.innerText = result.toFixed(2);
             }
 
         } else if (display.innerText == '' && item.id == 'equal') {
