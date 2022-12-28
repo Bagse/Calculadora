@@ -47,11 +47,11 @@
     margin: 0 10px;
     height: 150px;
     width: auto;
-    max-width: 270px;
+    max-width: 260px;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 20px;
     overflow-x: scroll;
 }
