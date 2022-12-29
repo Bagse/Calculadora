@@ -8,7 +8,7 @@
 
 body{
     font-family: sans-serif;
-    background: url(../img/background.jpg);
+    background: linear-gradient(to top, #232020 50%, #82ffc9 50%);
 }
 
 a{
