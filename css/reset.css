@@ -8,7 +8,7 @@
 
 body{
     font-family: sans-serif;
-    background: linear-gradient(to top, #232020 50%, #82ffc9 50%);
+    background: radial-gradient(circle, rgba(72,215,72,1) 0%, rgba(67,108,157,1) 100%);
 }
 
 a{
