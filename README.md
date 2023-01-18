@@ -4,5 +4,13 @@
 link: https://bagse.github.io/Calculadora/
 
 # Calculadora
-Proyecto creado usando las tecnologías de HTML, CSS y JS para poder crear una calculadora que permita sumar, restar, dividir y multiplicar números enteros como decimales. Además de tener un modo oscuro y claro.
 
+Calculadora (HTML, CSS, JavaScript)
+
+Proyecto personal
+
+Desarrollé una calculadora en HTML, CSS y JavaScript como proyecto personal para mejorar mis habilidades en estos lenguajes y frameworks. La calculadora incluye funcionalidades básicas como sumar, restar, multiplicar y dividir, así como otras funcionalidades avanzadas como el cálculo de raíces cuadradas y potencias.
+
+Utilicé una serie de herramientas y tecnologías, como GitHub para el control de versiones y Visual Studio Code como editor de código.
+
+Este proyecto me permitió mejorar mis habilidades en el desarrollo web y demostrar mi capacidad para resolver problemas y encontrar soluciones creativas.
